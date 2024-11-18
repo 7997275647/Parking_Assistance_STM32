@@ -1,0 +1,2 @@
+../Core/Src/HCSR04_Sensor.c:9:6:TriggerSensor	8	static
+../Core/Src/HCSR04_Sensor.c:17:7:CalculateDistance	16	static
